@@ -1,7 +1,7 @@
 :root {
   --server-unread-colour: 255, 255, 255;
   --server-hover-colour: 255, 255, 255;
-  --server-selected-colour: var(--accent, 0, 231, 169);
+  --server-selected-colour: rgb(9, 196, 146);
   --server-spacing: 16px;
   --server-glow-intensity: 1;
 }
